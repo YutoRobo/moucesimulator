@@ -2,7 +2,12 @@
 
 ROSが動作する環境で使用してください
 
-操作方法
+Enter: mapEditのモード切替
+Esc: 終了
+Space: リセット
+
+
+操作方法：
 1: MouceSimulatorを開く
 2: ROS上で
     roslaunch rosbridge_server rosbridge_websocket.launch
